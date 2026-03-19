@@ -84,14 +84,24 @@
 
 ## 🧠 Soft Skills
 
-```yaml
-Problem Solving           ██████████
-Adaptability              █████████░
-Leadership                ████████░░
-Emotional Intelligence    ████████░░
-Curiosity                 ██████████
-```
+Core Strengths:
+  Problem Solving         ▰▰▰▰▰▰▰▰▰▰
+  Critical Thinking       ▰▰▰▰▰▰▰▰▰▱
+  Analytical Skills       ▰▰▰▰▰▰▰▰▰▱
 
+Data Skills:
+  Data Analysis           ▰▰▰▰▰▰▰▰▱▱
+  Data Visualization      ▰▰▰▰▰▰▰▰▱▱
+  Statistical Thinking    ▰▰▰▰▰▰▰▱▱▱
+
+Professional Skills:
+  Communication           ▰▰▰▰▰▰▰▱▱▱
+  Teamwork                ▰▰▰▰▰▰▰▰▱▱
+  Adaptability            ▰▰▰▰▰▰▰▰▱▱
+
+Growth Mindset:
+  Curiosity               ▰▰▰▰▰▰▰▰▰▰
+  Self-Learning           ▰▰▰▰▰▰▰▰▰▰
 ---
 
 ## 📊 GitHub Stats
