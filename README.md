@@ -83,25 +83,14 @@
 ---
 
 ## 🧠 Soft Skills
-
-Core Strengths:
-  Problem Solving         ▰▰▰▰▰▰▰▰▰▰
-  Critical Thinking       ▰▰▰▰▰▰▰▰▰▱
-  Analytical Skills       ▰▰▰▰▰▰▰▰▰▱
-
-Data Skills:
-  Data Analysis           ▰▰▰▰▰▰▰▰▱▱
-  Data Visualization      ▰▰▰▰▰▰▰▰▱▱
-  Statistical Thinking    ▰▰▰▰▰▰▰▱▱▱
-
-Professional Skills:
-  Communication           ▰▰▰▰▰▰▰▱▱▱
-  Teamwork                ▰▰▰▰▰▰▰▰▱▱
-  Adaptability            ▰▰▰▰▰▰▰▰▱▱
-
-Growth Mindset:
-  Curiosity               ▰▰▰▰▰▰▰▰▰▰
-  Self-Learning           ▰▰▰▰▰▰▰▰▰▰
+🧩 Problem Solving         ▰▰▰▰▰▰▰▰▰▰  
+🔍 Analytical Thinking     ▰▰▰▰▰▰▰▰▰▱  
+📊 Data Interpretation     ▰▰▰▰▰▰▰▰▱▱  
+⚡ Adaptability            ▰▰▰▰▰▰▰▰▱▱  
+🤝 Team Collaboration      ▰▰▰▰▰▰▰▱▱▱  
+🧠 Critical Thinking       ▰▰▰▰▰▰▰▰▰▱  
+🎯 Attention to Detail     ▰▰▰▰▰▰▰▰▱▱  
+🚀 Self-Learning Ability   ▰▰▰▰▰▰▰▰▰▰  
 ---
 
 ## 📊 GitHub Stats
