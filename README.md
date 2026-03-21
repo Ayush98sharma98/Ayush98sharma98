@@ -107,10 +107,6 @@
 
 💡 More projects in progress — always building something new!
 
-
-
-> 💡 *More projects in progress — always building something new!*
-
 ---
 
 ## 🏅 Certificates & Achievements
