@@ -36,18 +36,6 @@
 
 ---
 
-## 🧠 About Me
-
-```yaml
-name       : Ayush Sharma
-degree     : B.Tech CSE (Data Science) @ Lovely Professional University
-role       : Data Analyst · ML Explorer · Developer
-interests  : Machine Learning, Data Visualization, Problem Solving
-philosophy : "Understand deeply. Build meaningfully."
-fun_fact   : Curiosity is my most-used library 📚
-```
-
----
 
 ## 💻 Coding Mode
 
@@ -93,13 +81,16 @@ fun_fact   : Curiosity is my most-used library 📚
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 📊 **Power BI Dashboard** | Interactive data visualization & business insights | Power BI, Excel |
-| 🤖 **ML Regression Model** | Predictive analytics for real-world datasets | Python, Scikit-Learn |
-| 🎮 **Java Arcade Game** | A fully playable game built from scratch | Java |
+| Project | Description | Tech | Stars |
+|---|---|---|---|
+| 📓 [**python-ca2**](https://github.com/Ayush98sharma98/python-ca2) | Python assignments & data science notebooks | Jupyter Notebook | ⭐ 6 |
+| 📊 [**EV-analysis-dashboard-power-bi**](https://github.com/Ayush98sharma98/EV-analysis-dashboard-power-bi) | Electric Vehicle analysis Power BI dashboard | Power BI | ⭐ 1 |
+| ☕ [**excel-ca2-files**](https://github.com/Ayush98sharma98/excel-ca2-files) | Excel data analysis projects | Excel | ⭐ 2 |
+| 🐳 [**docker-workshop**](https://github.com/Ayush98sharma98/docker-workshop) | Docker containerization workshop | Jupyter Notebook | ⭐ 1 |
+| 🐍 [**python-projects**](https://github.com/Ayush98sharma98/python-projects) | My Codetantra Python projects | Python | — |
+| 💻 [**freeCodeCamp**](https://github.com/Ayush98sharma98/freeCodeCamp) | Open-source learning & coding challenges | TypeScript | ⭐ 1 |
 
-> 💡 *More projects coming soon — currently building something exciting!*
+> 💡 *More projects in progress — always building something new!*
 
 ---
 
@@ -107,9 +98,9 @@ fun_fact   : Curiosity is my most-used library 📚
 
 | 🏆 Achievement | 🏢 Issuer | 📅 Date |
 |---|---|---|
-| 🧠 Unrevealing Basic Python towards ML/AI | CSEPathshala | 2024 |
-| 📊 Mastering JAVA for Application Development | Lovely Professional University | 2025 |
-| ☁️ Cloud Computing Basics | NPTEL | 2025 |
+| 🐍 Unrevealing Basic Python towards ML/AI | CSEPathshala | 2024 |
+| ☕ Mastering JAVA for Application Development | Lovely Professional University | 2025 |
+| ☁️ Cloud Computing | NPTEL | 2025 |
 
 ---
 
@@ -136,6 +127,7 @@ fun_fact   : Curiosity is my most-used library 📚
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush98sharma98&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </div>
 
+---
 ---
 
 ## 🧠 Soft Skills
