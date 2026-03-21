@@ -87,7 +87,6 @@
 | 🤖 **ML Regression Model** | Predictive analytics for real-world datasets | Python, Scikit-Learn |
 | 🎮 **Java Arcade Game** | A fully playable game built from scratch | Java |
 
-> 💡 *More projects coming soon — currently building something exciting!*
 
 ---
 
