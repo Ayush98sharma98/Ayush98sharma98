@@ -77,16 +77,37 @@
 
 ---
 
-## 🚀 Featured Projects
+>
 
-| Project | Description | Tech | Stars |
-|---|---|---|---|
-| 📓 [**python-ca2**](https://github.com/Ayush98sharma98/python-ca2) | Python assignments & data science notebooks | Jupyter Notebook | ⭐ 6 |
-| 📊 [**EV-analysis-dashboard-power-bi**](https://github.com/Ayush98sharma98/EV-analysis-dashboard-power-bi) | Electric Vehicle analysis Power BI dashboard | Power BI | ⭐ 1 |
-| ☕ [**excel-ca2-files**](https://github.com/Ayush98sharma98/excel-ca2-files) | Excel data analysis projects | Excel | ⭐ 2 |
-| 🐳 [**docker-workshop**](https://github.com/Ayush98sharma98/docker-workshop) | Docker containerization workshop | Jupyter Notebook | ⭐ 1 |
-| 🐍 [**python-projects**](https://github.com/Ayush98sharma98/python-projects) | My Codetantra Python projects | Python | — |
-| 💻 [**freeCodeCamp**](https://github.com/Ayush98sharma98/freeCodeCamp) | Open-source learning & coding challenges | TypeScript | ⭐ 1 |
+🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ FraudShield AI</h3>
+      <p>End-to-end ML system that detects fraudulent credit card transactions in real-time. Built on 284,807 transactions with <b>99.5% accuracy</b> & <b>0.98 ROC AUC</b> using SMOTE + Scikit-Learn.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></p>
+      <a href="https://github.com/Ayush98sharma98/fraudshield-ai">🔗 View Repo</a>
+    </td>
+    <td width="50%">
+      <h3>🤖 Sage AI</h3>
+      <p>Your wise AI companion — Philosopher, Psychologist, Engineer, Doctor & Friend in one. A multi-role intelligent assistant built with Python.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></p>
+      <a href="https://github.com/Ayush98sharma98/Sage-ai">🔗 View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3>🔍 Crime Analytics Dashboard</h3>
+      <p>Dashboard to analyze crime patterns based on location, time, victim demographics, weapon usage, and crime severity. Built for data-driven law enforcement insights.</p>
+      <p><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></p>
+      <a href="https://github.com/Ayush98sharma98/Crime-Analytics-Dashboard">🔗 View Repo</a>
+    </td>
+  </tr>
+</table>
+
+💡 More projects in progress — always building something new!
+
+
 
 > 💡 *More projects in progress — always building something new!*
 
