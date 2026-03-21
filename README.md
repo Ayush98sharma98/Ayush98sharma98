@@ -8,12 +8,31 @@
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=Ayush98sharma98&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Ayush98sharma98&label=Profile+Views&color=7c3aed&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Ayush98sharma98?label=Followers&style=flat-square&color=7c3aed" alt="followers"/>
+<img src="https://img.shields.io/github/followers/Ayush98sharma98?label=Followers&style=flat-square&color=7c3aed"/>
 
 </div>
+
+---
+
+## 🎮 Player Profile
+
+```
+╔══════════════════════════════════════════════════════╗
+║                   CHARACTER STATS                    ║
+╠══════════════════════════════════════════════════════╣
+║  Name    : Ayush Sharma                              ║
+║  Class   : Data Analyst + ML Explorer + Developer    ║
+║  Guild   : Lovely Professional University (CSE-DS)   ║
+║  Region  : Rajasthan, India 🇮🇳                       ║
+║  Email   : ayushsharma4540@gmail.com                 ║
+║  Status  : 🟢 Open to Collabs & Internships          ║
+╠══════════════════════════════════════════════════════╣
+║  📊 Dashboards Built  |  🤖 ML Models Trained        ║
+║  🎮 Games Developed   |  📚 Always Levelling Up      ║
+╚══════════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -29,6 +48,8 @@ fun_fact   : Curiosity is my most-used library 📚
 ```
 
 ---
+
+## 💻 Coding Mode
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
@@ -82,6 +103,20 @@ fun_fact   : Curiosity is my most-used library 📚
 
 ---
 
+## 🏅 Certificates & Achievements
+
+| 🏆 Achievement | 🏢 Issuer | 📅 Date |
+|---|---|---|
+| 🧠 Data Science & ML Fundamentals | Lovely Professional University | 2024 |
+| 📊 Power BI for Data Analysts | Microsoft / Udemy | 2024 |
+| ☁️ Cloud Computing Basics | NPTEL | 2024 |
+| 🐍 Python Programming | HackerRank | 2024 |
+| 🤖 Introduction to ML | Coursera / Google | 2024 |
+
+> 📌 *Update these with your actual certificates and dates!*
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,7 +125,7 @@ fun_fact   : Curiosity is my most-used library 📚
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush98sharma98&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Ayush98sharma98&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -102,8 +137,18 @@ fun_fact   : Curiosity is my most-used library 📚
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush98sharma98&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush98sharma98&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ayush98sharma98/Ayush98sharma98/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+> ⚙️ *To activate: add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to `.github/workflows/snake.yml` in your profile repo*
 
 ---
 
