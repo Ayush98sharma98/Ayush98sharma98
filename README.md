@@ -95,11 +95,9 @@
 
 | 🏆 Achievement | 🏢 Issuer | 📅 Date |
 |---|---|---|
-| 🧠 Data Science & ML Fundamentals | Lovely Professional University | 2024 |
-| 📊 Power BI for Data Analysts | Microsoft / Udemy | 2024 |
-| ☁️ Cloud Computing Basics | NPTEL | 2024 |
-| 🐍 Python Programming | HackerRank | 2024 |
-| 🤖 Introduction to ML | Coursera / Google | 2024 |
+| 🧠 Unrevealing Basic Python towards ML/AI | CSEPathshala | 2024 |
+| 📊 Mastering JAVA for Application Development | Lovely Professional University | 2025 |
+| ☁️ Cloud Computing Basics | NPTEL | 2025 |
 
 > 📌 *Update these with your actual certificates and dates!*
 
@@ -126,43 +124,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush98sharma98&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-> ⚙️ **One-time setup to activate the snake — follow these 3 steps:**
->
-> **Step 1:** In your profile repo, create `.github/workflows/snake.yml` with this content:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Ayush98sharma98
->           outputs: |
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> **Step 2:** Go to **Actions tab → Generate Snake → Run workflow**
->
-> **Step 3:** Once it runs, the animation below will load automatically! 🎉
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ayush98sharma98/Ayush98sharma98/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 ---
