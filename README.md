@@ -35,18 +35,6 @@
 ```
 
 ---
-
-## 🧠 About Me
-
-```yaml
-name       : Ayush Sharma
-degree     : B.Tech CSE (Data Science) @ Lovely Professional University
-role       : Data Analyst · ML Explorer · Developer
-interests  : Machine Learning, Data Visualization, Problem Solving
-philosophy : "Understand deeply. Build meaningfully."
-fun_fact   : Curiosity is my most-used library 📚
-```
-
 ---
 
 ## 💻 Coding Mode
@@ -137,18 +125,45 @@ fun_fact   : Curiosity is my most-used library 📚
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush98sharma98&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush98sharma98&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 
+> ⚙️ **One-time setup to activate the snake — follow these 3 steps:**
+>
+> **Step 1:** In your profile repo, create `.github/workflows/snake.yml` with this content:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: Ayush98sharma98
+>           outputs: |
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+> **Step 2:** Go to **Actions tab → Generate Snake → Run workflow**
+>
+> **Step 3:** Once it runs, the animation below will load automatically! 🎉
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ayush98sharma98/Ayush98sharma98/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
-
-> ⚙️ *To activate: add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to `.github/workflows/snake.yml` in your profile repo*
 
 ---
 
